@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+V1<!DOCTYPE html>
 <!--[if IE 9]><html lang="en-us" class="ie9"><![endif]-->
 <!--[if gt IE 9]><!-->
 <html lang="en-us">
@@ -42,7 +42,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          OpenShift Tasks Demo
+          OpenShift Tasks Demo v2
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
